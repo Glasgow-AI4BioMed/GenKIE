@@ -1,0 +1,11 @@
+-e ./fairseq/
+opencv-python
+timm
+ftfy
+tensorboardX
+pycocotools
+pycocoevalcap
+pytorch_lightning
+einops
+datasets
+rouge_score
