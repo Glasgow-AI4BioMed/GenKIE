@@ -2,7 +2,7 @@
 GenIE: Robust Generative Multimodal Document Information Extraction
 
 ## Datasets and Pretrained Model
-We give an example of processed SROIE dataset with the question prompt to demonstrate how to use GenIE. The dataset is available at this [link](). Our pretrained GenIE will be available at this [link]().
+We give an example of processed SROIE dataset with the question prompt to demonstrate how to use GenIE. The dataset is available at this [link](https://drive.google.com/file/d/1wioGjpXEX8MSCW68y9O_kPw-xp4CTKVk/view?usp=sharing). Our pretrained GenIE will be available at this [link]().
 
 ## Environments
 ```
